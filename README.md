@@ -1,17 +1,40 @@
-# ai_study_notes
+# AI Study Notes
 
-A new Flutter project.
+An AI-powered study assistant built using Flutter that helps students
+convert study materials into simplified notes and improve their learning.
+
+## Features
+
+- User authentication using Firebase
+- PDF upload and reading
+- AI-generated summaries
+- Quiz generation
+- Flashcards
+- Personal notes management
+- Firebase integration
+
+## Tech Stack
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- AI API
+- PDF Processing
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository.
+2. Install Flutter dependencies:
 
-A few resources to get you started if this is your first Flutter project:
+   flutter pub get
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+3. Configure Firebase for your application.
+4. Add your AI API configuration securely.
+5. Run the application:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   flutter run
+
+## Developer
+
+Omkar Divekar
